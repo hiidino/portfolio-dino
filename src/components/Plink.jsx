@@ -31,4 +31,3 @@ const Plink = () => {
 }
 
 export default Plink
-x

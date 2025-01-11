@@ -5,7 +5,7 @@ const experiences = [
     id: 1,
     title: 'Full Stack Engineer',
     company: 'Unibluweb',
-    duration: 'Aug 2024 - Dec 2024',
+    duration: 'Aug 2024 - present',
     location: 'Chandigarh, India',
     type: 'On-site',
     points: [
@@ -19,7 +19,7 @@ const experiences = [
     id: 2,
     title: 'Full Stack Developer Intern',
     company: 'TCIL-IT',
-    duration: 'May 2023 - Jul 2023',
+    duration: 'May 2024 - Jul 2024',
     location: 'Chandigarh',
     type: 'Hybrid',
     points: [
