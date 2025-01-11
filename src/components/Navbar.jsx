@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { HashLink as Link } from "react-router-hash-link";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/dino-resume-2.pdf";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -190,7 +190,7 @@ const Navbar = () => {
           </button>
           <a
             href={resume}
-            download="Resume -Dipu kumar singh.pdf"
+            download="Resume - Dino Raj"
             className="p-2 bg-blue-600 hover:bg-blue-900 text-white rounded-md flex"
           >
             <svg

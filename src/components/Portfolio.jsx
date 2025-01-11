@@ -21,7 +21,7 @@ const portfolioItems = [
     title: 'Research Bay',
     description: 'An advanced research management platform designed to streamline research project workflows and collaboration.',
     image: rbay,
-    link: 'https://researchbay.netlify.app/',
+    link: 'https://github.com/Dipusingh02/Research-Bay-final-',
   },
   {
     title: 'Oswald Blog',
@@ -38,7 +38,7 @@ const Portfolio = () => {
       <h1 className='text-3xl sm:text-[40px] bg-[111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#E9DCC9]'>
       Portfolio</h1>
       <hr className="border-t mx-5 p-2 border-gray-300" />
-
+      <br />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {portfolioItems.map((item, index) => (
           <a href={item.link} key={index} target="_blank" rel="noopener noreferrer">

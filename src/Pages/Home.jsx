@@ -20,6 +20,7 @@ const Home = () => {
       <Plink />
       <Experience />
       <Portfolio />
+      <br />
       <HServices />
       <Skills />
       <AboutMe />
